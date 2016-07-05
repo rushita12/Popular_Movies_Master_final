@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">Popular_Movies_Master</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_movie_detail">MovieDetailActivity</string>
+
+
+    <string name="title_movie_detail">Movie Detail</string>
+    <string name="api_key">ed9a954a37dc0fb289f63361bd730e35</string>
+
+    <string name="action_popular_movies">Sort by : Most Popular</string>
+    <string name="action_highest_rated">Sort by : Highest rated</string>
+    <string name="title_activity_detail">DetailActivity</string>
+    <string name="movietrailer">Movie trailers</string>
+    <string name="show_reviews">Show Reviews</string>
+    <string name="action_fav_movies">Favorites</string>
+    <string name="action_share">share</string>
+</resources>
